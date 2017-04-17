@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CATALOG>
 	<CD>
-		<TITLE>Empire Burlesque</TITLE>
-		<ARTIST>Bob Dylan</ARTIST>
+		<TITLE>My Beautiful Dark Twisted Fantasy</TITLE>
+		<ARTIST>Kanye West</ARTIST>
 		<COUNTRY>USA</COUNTRY>
-		<COMPANY>Columbia</COMPANY>
-		<PRICE>10.90</PRICE>
-		<YEAR>1985</YEAR>
+		<GENRE>Hip Hop</GENRE>
+		<PRICE>20.90</PRICE>
+		<YEAR>2010</YEAR>
 	</CD>
 	<CD>
 		<TITLE>Hide your heart</TITLE>
 		<ARTIST>Bonnie Tyler</ARTIST>
 		<COUNTRY>UK</COUNTRY>
-		<COMPANY>CBS Records</COMPANY>
+		<GENRE>Hip Hop</GENRE>
 		<PRICE>9.90</PRICE>
 		<YEAR>1988</YEAR>
 	</CD>
@@ -20,7 +20,7 @@
 		<TITLE>Greatest Hits</TITLE>
 		<ARTIST>Dolly Parton</ARTIST>
 		<COUNTRY>USA</COUNTRY>
-		<COMPANY>RCA</COMPANY>
+		<GENRE>Hip Hop</GENRE>
 		<PRICE>9.90</PRICE>
 		<YEAR>1982</YEAR>
 	</CD>
@@ -28,7 +28,7 @@
 		<TITLE>Still got the blues</TITLE>
 		<ARTIST>Gary Moore</ARTIST>
 		<COUNTRY>UK</COUNTRY>
-		<COMPANY>Virgin records</COMPANY>
+		<GENRE>Hip Hop</GENRE>
 		<PRICE>10.20</PRICE>
 		<YEAR>1990</YEAR>
 	</CD>
@@ -36,7 +36,7 @@
 		<TITLE>Eros</TITLE>
 		<ARTIST>Eros Ramazzotti</ARTIST>
 		<COUNTRY>EU</COUNTRY>
-		<COMPANY>BMG</COMPANY>
+		<GENRE>Hip Hop</GENRE>
 		<PRICE>9.90</PRICE>
 		<YEAR>1997</YEAR>
 	</CD>
@@ -44,7 +44,7 @@
 		<TITLE>One night only</TITLE>
 		<ARTIST>Bee Gees</ARTIST>
 		<COUNTRY>UK</COUNTRY>
-		<COMPANY>Polydor</COMPANY>
+		<GENRE>Hip Hop</GENRE>
 		<PRICE>10.90</PRICE>
 		<YEAR>1998</YEAR>
 	</CD>
@@ -52,7 +52,7 @@
 		<TITLE>Sylvias Mother</TITLE>
 		<ARTIST>Dr.Hook</ARTIST>
 		<COUNTRY>UK</COUNTRY>
-		<COMPANY>CBS</COMPANY>
+		<GENRE>Hip Hop</GENRE>
 		<PRICE>8.10</PRICE>
 		<YEAR>1973</YEAR>
 	</CD>
@@ -60,7 +60,7 @@
 		<TITLE>Maggie May</TITLE>
 		<ARTIST>Rod Stewart</ARTIST>
 		<COUNTRY>UK</COUNTRY>
-		<COMPANY>Pickwick</COMPANY>
+		<GENRE>Hip Hop</GENRE>
 		<PRICE>8.50</PRICE>
 		<YEAR>1990</YEAR>
 	</CD>
@@ -68,7 +68,7 @@
 		<TITLE>Romanza</TITLE>
 		<ARTIST>Andrea Bocelli</ARTIST>
 		<COUNTRY>EU</COUNTRY>
-		<COMPANY>Polydor</COMPANY>
+		<GENRE>Hip Hop</GENRE>
 		<PRICE>10.80</PRICE>
 		<YEAR>1996</YEAR>
 	</CD>
@@ -76,7 +76,7 @@
 		<TITLE>When a man loves a woman</TITLE>
 		<ARTIST>Percy Sledge</ARTIST>
 		<COUNTRY>USA</COUNTRY>
-		<COMPANY>Atlantic</COMPANY>
+		<GENRE>Hip Hop</GENRE>
 		<PRICE>8.70</PRICE>
 		<YEAR>1987</YEAR>
 	</CD>
@@ -84,7 +84,7 @@
 		<TITLE>Black angel</TITLE>
 		<ARTIST>Savage Rose</ARTIST>
 		<COUNTRY>EU</COUNTRY>
-		<COMPANY>Mega</COMPANY>
+		<GENRE>Hip Hop</GENRE>
 		<PRICE>10.90</PRICE>
 		<YEAR>1995</YEAR>
 	</CD>
@@ -92,7 +92,7 @@
 		<TITLE>1999 Grammy Nominees</TITLE>
 		<ARTIST>Many</ARTIST>
 		<COUNTRY>USA</COUNTRY>
-		<COMPANY>Grammy</COMPANY>
+		<GENRE>Hip Hop</GENRE>
 		<PRICE>10.20</PRICE>
 		<YEAR>1999</YEAR>
 	</CD>
@@ -100,7 +100,7 @@
 		<TITLE>For the good times</TITLE>
 		<ARTIST>Kenny Rogers</ARTIST>
 		<COUNTRY>UK</COUNTRY>
-		<COMPANY>Mucik Master</COMPANY>
+		<GENRE>Hip Hop</GENRE>
 		<PRICE>8.70</PRICE>
 		<YEAR>1995</YEAR>
 	</CD>
@@ -108,7 +108,7 @@
 		<TITLE>Big Willie style</TITLE>
 		<ARTIST>Will Smith</ARTIST>
 		<COUNTRY>USA</COUNTRY>
-		<COMPANY>Columbia</COMPANY>
+		<GENRE>Hip Hop</GENRE>
 		<PRICE>9.90</PRICE>
 		<YEAR>1997</YEAR>
 	</CD>
@@ -116,7 +116,7 @@
 		<TITLE>Tupelo Honey</TITLE>
 		<ARTIST>Van Morrison</ARTIST>
 		<COUNTRY>UK</COUNTRY>
-		<COMPANY>Polydor</COMPANY>
+		<GENRE>Hip Hop</GENRE>
 		<PRICE>8.20</PRICE>
 		<YEAR>1971</YEAR>
 	</CD>
@@ -124,7 +124,7 @@
 		<TITLE>Soulsville</TITLE>
 		<ARTIST>Jorn Hoel</ARTIST>
 		<COUNTRY>Norway</COUNTRY>
-		<COMPANY>WEA</COMPANY>
+		<GENRE>Hip Hop</GENRE>
 		<PRICE>7.90</PRICE>
 		<YEAR>1996</YEAR>
 	</CD>
@@ -132,7 +132,7 @@
 		<TITLE>The very best of</TITLE>
 		<ARTIST>Cat Stevens</ARTIST>
 		<COUNTRY>UK</COUNTRY>
-		<COMPANY>Island</COMPANY>
+		<GENRE>Hip Hop</GENRE>
 		<PRICE>8.90</PRICE>
 		<YEAR>1990</YEAR>
 	</CD>
@@ -140,7 +140,7 @@
 		<TITLE>Stop</TITLE>
 		<ARTIST>Sam Brown</ARTIST>
 		<COUNTRY>UK</COUNTRY>
-		<COMPANY>A and M</COMPANY>
+		<GENRE>Hip Hop</GENRE>
 		<PRICE>8.90</PRICE>
 		<YEAR>1988</YEAR>
 	</CD>
@@ -148,7 +148,7 @@
 		<TITLE>Bridge of Spies</TITLE>
 		<ARTIST>T'Pau</ARTIST>
 		<COUNTRY>UK</COUNTRY>
-		<COMPANY>Siren</COMPANY>
+		<GENRE>Hip Hop</GENRE>
 		<PRICE>7.90</PRICE>
 		<YEAR>1987</YEAR>
 	</CD>
@@ -156,7 +156,7 @@
 		<TITLE>Private Dancer</TITLE>
 		<ARTIST>Tina Turner</ARTIST>
 		<COUNTRY>UK</COUNTRY>
-		<COMPANY>Capitol</COMPANY>
+		<GENRE>Hip Hop</GENRE>
 		<PRICE>8.90</PRICE>
 		<YEAR>1983</YEAR>
 	</CD>
@@ -164,7 +164,7 @@
 		<TITLE>Midt om natten</TITLE>
 		<ARTIST>Kim Larsen</ARTIST>
 		<COUNTRY>EU</COUNTRY>
-		<COMPANY>Medley</COMPANY>
+		<GENRE>Hip Hop</GENRE>
 		<PRICE>7.80</PRICE>
 		<YEAR>1983</YEAR>
 	</CD>
@@ -172,7 +172,7 @@
 		<TITLE>Pavarotti Gala Concert</TITLE>
 		<ARTIST>Luciano Pavarotti</ARTIST>
 		<COUNTRY>UK</COUNTRY>
-		<COMPANY>DECCA</COMPANY>
+		<GENRE>Hip Hop</GENRE>
 		<PRICE>9.90</PRICE>
 		<YEAR>1991</YEAR>
 	</CD>
@@ -180,7 +180,7 @@
 		<TITLE>The dock of the bay</TITLE>
 		<ARTIST>Otis Redding</ARTIST>
 		<COUNTRY>USA</COUNTRY>
-		<COMPANY>Atlantic</COMPANY>
+		<GENRE>Hip Hop</GENRE>
 		<PRICE>7.90</PRICE>
 		<YEAR>1987</YEAR>
 	</CD>
@@ -188,7 +188,7 @@
 		<TITLE>Picture book</TITLE>
 		<ARTIST>Simply Red</ARTIST>
 		<COUNTRY>EU</COUNTRY>
-		<COMPANY>Elektra</COMPANY>
+		<GENRE>Hip Hop</GENRE>
 		<PRICE>7.20</PRICE>
 		<YEAR>1985</YEAR>
 	</CD>
@@ -196,7 +196,7 @@
 		<TITLE>Red</TITLE>
 		<ARTIST>The Communards</ARTIST>
 		<COUNTRY>UK</COUNTRY>
-		<COMPANY>London</COMPANY>
+		<GENRE>Hip Hop</GENRE>
 		<PRICE>7.80</PRICE>
 		<YEAR>1987</YEAR>
 	</CD>
@@ -204,7 +204,7 @@
 		<TITLE>Unchain my heart</TITLE>
 		<ARTIST>Joe Cocker</ARTIST>
 		<COUNTRY>USA</COUNTRY>
-		<COMPANY>EMI</COMPANY>
+		<GENRE>Hip Hop</GENRE>
 		<PRICE>8.20</PRICE>
 		<YEAR>1987</YEAR>
 	</CD>
